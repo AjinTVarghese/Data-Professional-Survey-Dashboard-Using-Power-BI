@@ -19,3 +19,6 @@ Explore the survey findings through intuitive and engaging visualizations:
 
 Discover emerging trends, skill gaps, and opportunities in the data profession. Inform your strategic decisions, training initiatives, and industry outlook.
 
+## Dataset: 
+
+- https://github.com/AjinTVarghese/Data-Professional-Survey-Dashboard-Using-Power-BI/blob/main/Data%20Professional%20Survey.xlsx
